@@ -1,0 +1,4 @@
+enum BookType {
+  pdf,
+  epub,
+}
